@@ -12,6 +12,8 @@ Each supported service has its own folder where
 
 # Services How-to
 
+These steps are common to every enabled service inside Rambox.
+
 ## Step 1. Configure the service
 
 Roll over the supported enabled service name in the right pane and click the cog
