@@ -43,6 +43,7 @@ Sample result for Google Chat service :
 
 ![image](https://user-images.githubusercontent.com/17506424/115805872-1aa8ae80-a3e6-11eb-8826-c72b50fc0dd1.png)
 
+Changes are persistent even if Rambox is reopened.
 
 ---
 
@@ -77,3 +78,5 @@ Press Enter to activate.
 Result:
 
 ![image](https://user-images.githubusercontent.com/17506424/115805385-2647a580-a3e5-11eb-9abd-cea8c34d9596.png)
+
+The downside is that you have to do it every time Rambox is reopened.
