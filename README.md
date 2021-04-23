@@ -6,7 +6,7 @@ This project leverages the [Rambox](https://rambox.app) workspace browser [JS co
 
 Each supported service has its own folder where 
 - `custom.js` is the JS code to inject
--  and `custom.css` is the CSS code fetched by said JS.
+-  `custom.css` is the CSS code fetched by said JS.
 
 ---
 
