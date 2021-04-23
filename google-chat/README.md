@@ -2,7 +2,7 @@
 
 ## Warning
 
-Class names look ultra-random and will probably break on the next update.
+Class names look ultra-random and will probably break on the next update 😒.
 
 ## How-to
 
