@@ -39,6 +39,11 @@ Click **Yes** and enjoy dark mode!
 
 ![image](https://user-images.githubusercontent.com/17506424/115804624-a53bde80-a3e3-11eb-98a2-8fe4568f51c9.png)
 
+Sample result for Google Chat service :
+
+![image](https://user-images.githubusercontent.com/17506424/115805872-1aa8ae80-a3e6-11eb-8826-c72b50fc0dd1.png)
+
+
 ---
 
 # Rambox How-to
