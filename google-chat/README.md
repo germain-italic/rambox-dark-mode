@@ -4,6 +4,10 @@
 
 Class names look ultra-random and will probably break on the next update 😒.
 
+### Edit May 29, 2021:
+
+https://chat.google.com is now redirecting to https://mail.google.com/chat which is now loading iframes from https://chat.google.com, therefore, in-frame styling is not supported and the google-chat code is not working at the moment.
+
 ## How-to
 
 1. Open your favorite browser to https://chat.google.com/ and toggle Developer tools using F12 or cmd/ctrl-shift-i.
