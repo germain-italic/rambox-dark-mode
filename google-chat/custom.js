@@ -1,10 +1,16 @@
 (()=>{
-    fetch('https://raw.githubusercontent.com/Germain-Italic/rambox-dark-mode/main/google-chat/custom.css')
+    fetch('https://cdn.jsdelivr.net/npm/darkreader@4.9.32/darkreader.min.js')
     .then(res => res.text())
-    .then(css => {
-        var tag = document.createElement("style");
-        tag.type = "text/css";
-        tag.innerHTML = css;
-        document.getElementsByTagName("head")[0].appendChild(tag);
+    .then(js => {
+        var jsElement = document.createElement("script");
+        jsElement.type = "application/javascript";
+        jsElement.src = script;
+        document.body.appendChild(js);
+
+        DarkReader.auto({
+            brightness: 100,
+            contrast: 90,
+            sepia: 10
+        });
     });
 })();
