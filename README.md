@@ -5,12 +5,14 @@ This project leverages the [Rambox](https://rambox.app) workspace browser [JS co
 
 # ARCHIVED
 
-=================================================================
+=======================================================================================
 
-Google Chat and Android SMS web app now include native dark mode.
-Therefore, this project is no longer needed.
+**Google Chat and Android SMS web app now include native dark mode.
+Therefore, this project is no longer needed.**
 
-=================================================================
+=======================================================================================
+
+
 
 
 # Structure
