@@ -2,6 +2,17 @@
 
 This project leverages the [Rambox](https://rambox.app) workspace browser [JS code injection feature](https://github.com/ramboxapp/community-edition/wiki/Inject-JavaScript-Code) to load custom styles into enabled services.
 
+
+# ARCHIVED
+
+=================================================================
+
+Google Chat and Android SMS web app now include native dark mode.
+Therefore, this project is no longer needed.
+
+=================================================================
+
+
 # Structure
 
 Each supported service has its own folder where 
